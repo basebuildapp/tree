@@ -29,7 +29,10 @@
     "react-beautiful-dnd-next": "11.0.5"
   },
   "overrides": {
-    "react": "17.0.2"
+    "react": "17.0.2",
+    "react-beautiful-dnd-next": {
+      "react": "17.0.2"
+    }
   },
   "devDependencies": {
     "@atlaskit/button": "^16.3.0",
