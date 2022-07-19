@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "target": "es5",
+    "paths": {},
+    "lib": ["es6", "dom", "ES2017"],
+    "esModuleInterop": true,
+    "outDir": "./dist",
+    "jsx": "react",
+    "baseUrl": "./"
+  },
+  "include": [
+    "./src/**/*.ts",
+    "./src/**/*.tsx"
+  ],
+  "exclude": [
+    "./src/**/__tests__/*",
+    "./src/**/*.test.*",
+    "./src/**/test.*"
+  ],
+}
