@@ -1,11 +1,11 @@
 {
   "name": "@basebuild/tree",
   "version": "8.6.1",
-  "description": "A React Component for displaying expandable and sortable tree hierarchies",
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basebuildapp/tree.git"
   },
-  "repository": "https://bitbucket.org/atlassian/atlassian-frontend",
+  "description": "A React Component for displaying expandable and sortable tree hierarchies",
   "author": "Atlassian Pty Ltd",
   "license": "Apache-2.0",
   "main": "dist/index.js",
